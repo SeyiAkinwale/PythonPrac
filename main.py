@@ -1,5 +1,5 @@
-list_one = [5,3,2,1,4]
-print(sorted(list_one))
-print(list_one[3])
-print(len(list_one))
-print([5,3,2,1,5])
+count = 1
+print("counting to 10")
+while count > 0:
+  print(f'Count: {count}')
+  count += 1
